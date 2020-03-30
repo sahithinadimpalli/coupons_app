@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: singin
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: vibaki
+Implementation-Vendor-Id: com.singin
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/singin
+Created-By: Maven Integration for Eclipse
+
